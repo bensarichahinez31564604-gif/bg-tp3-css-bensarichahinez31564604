@@ -18,6 +18,14 @@
   height: 60px;
   border: 1px solid black;
 }
+
+#bigData-intro, .home-cards, .ruban, .follow, .links, .sub-footer{
+  background_colour: #d3eaac;
+  width: 100%
+  hight: 100px;
+  border: 1px solid black;
+}
+
 footer {
   background: red;
   width: 100%;
