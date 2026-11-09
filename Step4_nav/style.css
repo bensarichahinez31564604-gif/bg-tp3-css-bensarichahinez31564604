@@ -26,6 +26,13 @@
   border: 1px solid black;
 }
 
+.main-menu ul{
+  display: flex;
+  padding: 20px, 0;
+  font-size: 13px;
+  
+}
+
 footer {
   background: red;
   width: 100%;
