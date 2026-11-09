@@ -30,7 +30,8 @@
   display: flex;
   padding: 20px, 0;
   font-size: 13px;
-  
+  list-style: none;
+  gap: 10px;
 }
 
 footer {
