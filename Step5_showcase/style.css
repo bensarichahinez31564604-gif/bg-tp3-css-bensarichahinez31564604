@@ -90,7 +90,40 @@ body{
   background-size: 30%;
   display: flex;
   flex-direction: column;
-  
+  align-items: center;
+  justify-content: flex-end;
+  gap: 50px;
+  padding-bottom: 20px;
+  border: none;
+  background-color: white; 
+}
+
+.showcase h2,.showcase p {
+  margin-bottom: 10px;
+}
+
+.btn {
+  margin-top: 20px;
+  border-radius: 5px;
+  background-color: #378ff5;
+  color: white;
+  font-weight: bold;
+  padding: 10px 20px;
+  text-decoration: none;
+  display: inline-block;
+}
+
+.btn:hover {
+  opacity: 0.8;
+}
+
+.dark {
+  color: white;
+}
+
+.dark .btn {
+  background-color: #f4f4f4;
+  color: #333;
 }
 
 footer {
